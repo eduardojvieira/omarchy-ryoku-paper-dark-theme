@@ -1,0 +1,32 @@
+# Ryoku Paper Dark: UI roles from the Ryoku palette, ANSI from its high-contrast Ghostty palette.
+mode = "dark"
+
+accent = "#c79a49"
+selection = "#473d31"
+muted = "#91887d"
+
+background = "#171512"
+dark_background = "#12100e"
+darker_background = "#0d0c0a"
+lighter_background = "#2a2520"
+
+foreground = "#f3ece2"
+dark_foreground = "#9a8e82"
+light_foreground = "#d0c4b7"
+bright_foreground = "#fff8ee"
+
+red = "#cf6659"
+yellow = "#c79a49"
+orange = "#cb8051"
+green = "#8eaf82"
+cyan = "#83b5a7"
+blue = "#84a9c0"
+magenta = "#c797ae"
+brown = "#7a5c2e"
+
+bright_red = "#e2796d"
+bright_yellow = "#e2b961"
+bright_green = "#a8ca9c"
+bright_cyan = "#9acfc0"
+bright_blue = "#9bc4dc"
+bright_magenta = "#e0adc3"
